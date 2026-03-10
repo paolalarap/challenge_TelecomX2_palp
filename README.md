@@ -3,8 +3,6 @@ Desafío Alura Latam
 
 ---
 
-# 📘 **README — Análisis de Cancelación de Clientes (Churn Prediction)**
-
 ## 📌 **1. Introducción**
 
 Este proyecto tiene como objetivo analizar los factores que influyen en la **cancelación de clientes (churn)** y construir modelos predictivos capaces de identificar a los clientes con mayor probabilidad de abandonar el servicio.
